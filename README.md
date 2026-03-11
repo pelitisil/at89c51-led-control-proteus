@@ -41,9 +41,6 @@ Main components used in this project:
 
 The circuit was designed and tested using **Proteus simulation software**.
 
-## 📷 Circuit Design
-
-![Circuit Diagram](led.png)
 
 ## 🎯 Learning Objectives
 
@@ -54,6 +51,4 @@ This project helps in understanding:
 - Clock circuit design using crystals
 - Digital output control
 
-## 📌 Author
 
-Developed as part of an embedded systems / digital electronics study project.
